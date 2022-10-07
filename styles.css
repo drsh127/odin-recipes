@@ -1,12 +1,17 @@
-* {
+.body-index,
+.body-muffins {
     background-color: bisque;
 }
-.title {
+.title-index,
+.title-muffins {
     color: rgb(116, 94, 118);
     font-family: Garamond, Georgia, serif;
     font-size: 45px;
     text-align: center;
 }
-.links {
-    
+.title-muffins {
+    text-align: left;
+}
+a {
+    color: rgb(184, 165, 165);
 }
