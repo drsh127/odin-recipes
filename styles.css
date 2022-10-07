@@ -1,9 +1,7 @@
-.body-index,
-.body-muffins {
+body {
     background-color: bisque;
 }
-.title-index,
-.title-muffins {
+h1 {
     color: rgb(116, 94, 118);
     font-family: Garamond, Georgia, serif;
     font-size: 45px;
