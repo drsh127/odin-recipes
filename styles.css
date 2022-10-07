@@ -9,8 +9,12 @@
     font-size: 45px;
     text-align: center;
 }
-.title-muffins {
-    text-align: left;
+img {
+    height: auto;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 a {
     color: rgb(184, 165, 165);
