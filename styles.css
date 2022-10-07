@@ -19,3 +19,9 @@ img {
 a {
     color: rgb(184, 165, 165);
 }
+h3 {
+    color: rgb(101, 81, 54);
+    font-family: Garamond, Georgia, serif;
+    font-size: 25px;
+    text-align: left;
+}
